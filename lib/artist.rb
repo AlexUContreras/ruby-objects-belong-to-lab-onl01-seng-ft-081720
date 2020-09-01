@@ -1,5 +1,5 @@
 class Artist 
-  require_relative = 
+  require_relative = song.rb 
  
  
  
